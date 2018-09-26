@@ -3,7 +3,7 @@
             height: 100%;
         }
         body {
-            background:#2e438e;
+            background: radial-gradient(#1b98ff, #006bcb);
             overflow: hidden;
         }
 
@@ -58,6 +58,6 @@
                 transform: translate3d(0,-30px,0);
             }
             50% {
-                transform: translate3d(0,15px,0);
+                transform: translate3d(-10px,15px,0);
             }
         }
